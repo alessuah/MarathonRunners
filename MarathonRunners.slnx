@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <File Path="src/MarathonRunners.Core/doc.md" />
     <Project Path="src/MarathonRunners.Core/MarathonRunners.Core.csproj" />
   </Folder>
 </Solution>
