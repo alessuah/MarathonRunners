@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MarathonRunners.Core/MarathonRunners.Core.csproj" />
+  </Folder>
+</Solution>
