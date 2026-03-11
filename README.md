@@ -1,6 +1,6 @@
-﻿# MarathonRunner
+﻿# MarathonRunners
 
-MarathonRunner is my own implementation of the Marathon game from Bungie. 
+MarathonRunners is my own implementation of the Marathon game from Bungie. 
 
 I created this project for educational purposes.
 
