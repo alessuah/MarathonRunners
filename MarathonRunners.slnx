@@ -3,4 +3,7 @@
     <File Path="src/MarathonRunners.Core/doc.md" />
     <Project Path="src/MarathonRunners.Core/MarathonRunners.Core.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MarathonRunners.UnitTests/MarathonRunners.UnitTests.csproj" />
+  </Folder>
 </Solution>
