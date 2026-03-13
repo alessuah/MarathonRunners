@@ -12,8 +12,6 @@ internal class ShellBuilderTests
             .Build();
 
         //Assert
-        await Assert.That(rookShell.Name).IsEqualTo("Rook");
-
         await Assert.That(rookShell)
             .Member(r => r.Name, name => name.IsEqualTo("Rook"))
             .And.Member(r => r.Health, Health => Health.IsEqualTo(100u))
